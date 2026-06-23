@@ -1,0 +1,13 @@
+{
+	"PLUT.Delete": "Elimina",
+	"PLUT.Reset": "Reimposta",
+	"PLUT.Name": "Nome",
+	"PLUT.Type": "Tipo",
+	"PLUT.Find items...": "Trova oggetti...",
+
+	"CONTROLS.MeasureSelect": "Seleziona Template",
+	"CONTROLS.LightSelect": "Seleziona Luci",
+	"CONTROLS.SoundSelect": "Seleziona Suoni Ambientali",
+
+	"TYPES.JournalEntryPage.plutonium.url": "URL Incorporato"
+}

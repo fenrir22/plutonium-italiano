@@ -1,0 +1,47 @@
+{
+	"id": "plutonium-italiano",
+	"title": "Plutonium - Italiano",
+	"description": "Dati in italiano per Plutonium. Carica i dati di gioco tradotti in italiano invece che in inglese.",
+	"version": "1.0.0",
+	"authors": [
+		{
+			"name": "Italian Translation Team"
+		}
+	],
+	"compatibility": {
+		"minimum": "12",
+		"verified": "13"
+	},
+	"relationships": {
+		"systems": [
+			{
+				"id": "dnd5e",
+				"type": "system"
+			}
+		],
+		"requires": [
+			{
+				"id": "plutonium",
+				"type": "module",
+				"compatibility": {
+					"minimum": "2.13.0"
+				}
+			}
+		]
+	},
+	"esmodules": [
+		"./js/italiano.js"
+	],
+	"languages": [
+		{
+			"lang": "it",
+			"name": "Italiano",
+			"path": "lang/it.json"
+		}
+	],
+	"flags": {
+		"plutonium-italiano": {
+			"data-path": "data"
+		}
+	}
+}
